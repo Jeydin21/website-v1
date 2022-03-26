@@ -1,2 +1,1 @@
-# Website
-A remake of my original website.
+This is a remake of my original website.
