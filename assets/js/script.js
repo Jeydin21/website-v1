@@ -51,7 +51,7 @@ const typerStartTyping = typer => {
     typer.type(language, { delay: 1000 });
     typer.pause(1000);
 
-    typer.delete(language.length, { delay: 1000 });
+    typer.delete(language.length, { delay: 500 });
   });
 
   typer.go();

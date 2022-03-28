@@ -12,7 +12,7 @@ p,
 }
 
 .bg-image {
-  background-image: url('../img/rainy.gif');
+  background-image: url('../img/background.gif');
   position: absolute;
   top: 0px;
   right: 0px;
@@ -31,13 +31,10 @@ p,
   backdrop-filter: blur(3px);
   background-color: rgba(.5, 255, 255, 0.5);
   box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
-
   width: 90%;
-
   height: 35%;
   max-width: 580px;
-  
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .header {
